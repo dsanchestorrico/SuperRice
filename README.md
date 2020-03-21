@@ -8,3 +8,5 @@
 
 - Open folder flowChart
 - See flows mermaid
+
+![Image description](https://github.com/dsanchestorrico/SuperRice/blob/master/img/flow.png)
